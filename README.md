@@ -17,7 +17,7 @@ Sample app to make Basic Collection View ..
 You won't need to Download any extra libaray just import ARKit inside the project
 
 ##### For additionnal info, please watch the video : 
-[![IOS-Swift-ReadySlideInMenu](https://img.youtube.com/vi/../hqdefault.jpg)](https://www.youtube.com/channel/UCKyREAKyoyY5vxxv33pgEPQ)
+[![IOS-Swift-ReadySlideInMenu](https://img.youtube.com/vi/PGxQ76M0_9c/hqdefault.jpg)](https://youtu.be/PGxQ76M0_9c)
 
 ## License
 
