@@ -1,5 +1,6 @@
 # IOS-Swift-UICollectionView
 ``` Level : Biginer ```
+
 The Collection View provides a flexible way to present content to the user. Similar to a table view, a collection view gets data from custom data source objects and displays it using a combination of cell, layout, and supplementary views. A collection view can display items in a grid or in a custom layout that you design. In this tutorial we will display a number of colored cells in a collection view. This tutorial is made with Xcode 10 and built for iOS 12.
 
 ## About
